@@ -8,10 +8,10 @@ Our goal with this project is to access the variations in biodiversity in Phoeni
 
 ### Method Highlights
 
-Accessing MPC STAC catalog collection for a specific bounding box
-Creating a map to demonstrate Phoenix subdivision
-Calculating pct_area within Phoenix subdivision for 2017 & 2020
-Visualizing devestated BII areas (>= 75% lost) between 2017 and 2020
+- Accessing MPC STAC catalog collection for a specific bounding box
+- Creating a map to demonstrate Phoenix subdivision
+- Calculating pct_area within Phoenix subdivision for 2017 & 2020
+- Visualizing devestated BII areas (>= 75% lost) between 2017 and 2020
 
 ### About the Data
 
