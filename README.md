@@ -1,6 +1,6 @@
 # BII-Phoenix
 ## Biodiversity Intactness Index (BII) change in Phoenix, AZ between 2017 and 2020.
-![image.png](attachment:178a8e79-c649-429d-92e7-677a0151fefe.png)
+![36874e00-e8dc-4807-8c24-82184611e970](https://github.com/saingersoll/BII-Phoenix/assets/141206781/fdec2e96-5c54-4b55-b11c-6606d2ebba84)
 
 ### Objective
 
