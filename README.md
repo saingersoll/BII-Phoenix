@@ -1,6 +1,6 @@
 # BII-Phoenix
 ## Biodiversity Intactness Index (BII) change in Phoenix, AZ between 2017 and 2020.
-<img width="623" alt="BII_aol_phoenix" src="https://github.com/saingersoll/BII-Phoenix/assets/141206781/7a690585-b160-446f-b8c7-20ddb609c154">
+![image.png](attachment:178a8e79-c649-429d-92e7-677a0151fefe.png)
 
 ### Objective
 
@@ -28,3 +28,7 @@ https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=Cou
 
 Citations:
 1. https://www.washingtonpost.com/nation/interactive/2021/land-development-urban-growth-maps/
+2. Microsoft Planetary Computer. Planetary Computer. (n.d.-a). https://planetarycomputer.microsoft.com/dataset/io-biodiversity
+3. 2022 Tiger/Line® shapefiles: County+subdivisions. United States Census Bureau. (n.d.). https://www.census.gov/cgi-bin/geo/shapefiles/index.php?year=2022&layergroup=County%2BSubdivisions
+ 
+
