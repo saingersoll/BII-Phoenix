@@ -1,4 +1,4 @@
-# Determining the Affects of Urban Development on Biodiversity Intactness Index in Phoenix, AZ
+# Determining the Effects of Urban Development on Biodiversity Intactness Index in Phoenix, AZ
 ## Changes in Biodiversity Intactness Index (BII) Within Phoenix, AZ Between 2017 and 2020.
 ![image](https://github.com/saingersoll/BII-Phoenix/assets/141206781/b4690f6d-2aa8-4a0d-8879-d7568233b62b)
 
